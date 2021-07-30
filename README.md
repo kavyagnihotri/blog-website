@@ -3,7 +3,7 @@ Simple blog site : v1.0
 
 Run "npm install" to install the necessary packages.
 
-"node app.js" starts the server at Port 3000.
+Run "node app.js" to start the server at Port 3000.
 
 You can visit "/compose" to write new posts.
 
