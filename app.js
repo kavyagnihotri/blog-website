@@ -51,7 +51,7 @@ app.get("/posts/:abc", function(req, res) {
       res.render("post", {title: post.title, content: post.content});
     }
   });
-}); 
+});
 
 
 
